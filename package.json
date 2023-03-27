@@ -1,0 +1,17 @@
+{
+  "name": "lavendeux-js",
+  "version": "1.0.0",
+  "description": "A lavendeux extension for evaluating JavaScript.",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "author": "you",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.2.1",
+    "vitest": "^0.29.7"
+  }
+}
