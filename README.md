@@ -1,5 +1,7 @@
 # Lavendeux JS Extension
 
+[Download](https://github.com/jf908/lavendeux-js/releases/latest/download/lavendeux-js.js)
+
 A [Lavendeux](https://github.com/rscarson/Lavendeux) extension for evaluating JavaScript code. I'm still trying to figure out if this is a good idea.
 
 > Note: There is currently no protection against infinite loops.
