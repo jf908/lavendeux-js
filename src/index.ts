@@ -8,7 +8,7 @@ declare module 'extension' {
 
 globalThis.extension = (): Lavendeux.Extension => ({
   name: 'lavendeux-js',
-  author: 'you',
+  author: 'jf908',
   version: __VERSION__,
   functions: {
     js: 'evalJs',
